@@ -27,12 +27,16 @@ files to/from a more git-appropriate format, and even commit / diff those change
 ### Build
 
 Clone the repository and build:
+%USERPROFILE%\ra-logix-designer-vcs-custom-tools\artifacts\bin\Release
 
 ```sh
 git clone <your-repo-url>
 cd <clone_dir>
 dotnet build -c Release
 ```
+
+### ADD folder to PATH
+
 
 ### Usage
 
