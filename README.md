@@ -36,7 +36,9 @@ dotnet build -c Release
 
 ### ADD folder to PATH
 
-- %USERPROFILE%\ra-logix-designer-vcs-custom-tools\artifacts\bin\Release
+```sh
+%USERPROFILE%\ra-logix-designer-vcs-custom-tools\artifacts\bin\Release
+```
 
 ### Usage
 
